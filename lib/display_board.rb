@@ -3,4 +3,7 @@
 def display_board(position)
   puts [" ",|," ",|," "]
   puts "-----------"
+  puts [" ",|," ",|," "]
+  puts "-----------"
+  puts [" ",|," ",|," "]
 end
