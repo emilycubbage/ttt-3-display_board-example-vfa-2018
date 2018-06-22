@@ -2,7 +2,8 @@
 
 def display_board
   cell = "   "
-  puts [cell, cell, cell]
+  prints cell
+  prints |
   puts "-----------"
   puts [cell,cell,cell]
   puts "-----------"
